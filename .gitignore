@@ -86,3 +86,6 @@ depend*/
 
 # local Python virtual environment
 .venv/
+
+fuzzer-trace
+gen_conv.log
