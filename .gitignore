@@ -89,3 +89,4 @@ depend*/
 
 fuzzer-trace
 gen_conv.log
+.cache
